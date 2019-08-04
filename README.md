@@ -1,2 +1,2 @@
 # BinarySearch
-Friday, August 2, 2019
+Saturday, August 3, 2019
