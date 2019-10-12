@@ -1,2 +1,2 @@
 # BinarySearch
-Thursday, October 10, 2019
+Friday, October 11, 2019
