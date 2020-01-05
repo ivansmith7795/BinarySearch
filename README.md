@@ -1,2 +1,2 @@
 # BinarySearch
-Friday, January 3, 2020
+Saturday, January 4, 2020
