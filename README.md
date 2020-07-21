@@ -1,2 +1,2 @@
 # BinarySearch
-Sunday, July 19, 2020
+Monday, July 20, 2020
