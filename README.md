@@ -1,2 +1,2 @@
 # BinarySearch
-Monday, October 19, 2020
+Thursday, October 22, 2020
