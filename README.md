@@ -1,2 +1,2 @@
 # BinarySearch
-Thursday, March 11, 2021
+Friday, March 12, 2021
