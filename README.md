@@ -1,2 +1,2 @@
 # BinarySearch
-Tuesday, August 24, 2021
+Thursday, August 26, 2021
