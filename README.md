@@ -1,2 +1,2 @@
 # BinarySearch
-Wednesday, June 8, 2022
+Thursday, June 9, 2022
