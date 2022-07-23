@@ -1,2 +1,2 @@
 # BinarySearch
-Thursday, July 21, 2022
+Friday, July 22, 2022
