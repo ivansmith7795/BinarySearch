@@ -1,2 +1,2 @@
 # BinarySearch
-Thursday, March 2, 2023
+Friday, March 3, 2023
