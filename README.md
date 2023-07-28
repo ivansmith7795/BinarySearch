@@ -1,2 +1,2 @@
 # BinarySearch
-Tuesday, July 25, 2023
+Thursday, July 27, 2023
