@@ -1,2 +1,2 @@
 # BinarySearch
-Wednesday, January 3, 2024
+Friday, January 5, 2024
